@@ -8,7 +8,7 @@ versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
-children:
+children:rest of the world 
   - /overview
   - /reference
   - /guides
