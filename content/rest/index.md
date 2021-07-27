@@ -10,7 +10,7 @@ versions:
   ghae: '*'
 children:
   - /overview
-  - /reference
-  - /guides
+  beta- /reference
+  rest console /guides
 ---
 
