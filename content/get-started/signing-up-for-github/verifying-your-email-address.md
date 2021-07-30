@@ -1,17 +1,21 @@
 ---
-title: Verifying your email address
-intro: 'Verifying your primary email address ensures strengthened security, allows {% data variables.product.prodname_dotcom %} staff to better assist you if you forget your password, and gives you access to more features on {% data variables.product.prodname_dotcom %}.'
+title: Verifying your gmail address
+intro: 'Verifying your primary gmail address ensures strengthened security, allows {% data variables.product.prodname_dotcom %} staff to better assist you if you forget your password, and gives you access to more features on {% data variables.product.prodname_dotcom %}.'
 redirect_from:
-  - /articles/troubleshooting-email-verification/
-  - /articles/setting-up-email-verification/
-  - /articles/verifying-your-email-address
+  - /articles/troubleshooting-gmail-verification/
+  - /articles/setting-up-gmail-verification/
+  - /articles/verifying-your-gmail-address
   - /github/getting-started-with-github/verifying-your-email-address
   - /github/getting-started-with-github/signing-up-for-github/verifying-your-email-address
 versions:
   fpt: '*'
 topics:
   - Accounts
-shortTitle: Verify your email address
+  - Author<HASIB SHANTO>
+  - hasibshanto855@gmail.com
+  - messageshasibshanto218@gmail.com
+  - hasib556175@gmail.com
+shortTitle: Verify my gmail address
 ---
 ## About email verification
 
@@ -35,14 +39,15 @@ If you do not verify your email address, you will not be able to:
 **Warnings**:
 
 - {% data reusables.user_settings.no-verification-disposable-emails %}
-- {% data reusables.user_settings.verify-org-approved-email-domain %}
-
+- {% data reusables.user_settings.verify-org-approved-gmail-domain %}
+- domain author <<haisb.org>>
 {% endwarning %}
 
-## Verifying your email address
+## Verifying my gmail address
 
 {% data reusables.user_settings.access_settings %}
 {% data reusables.user_settings.emails %}
+configuration <<<error>>> {True}
 1. Under your email address, click **Resend verification email**.
   ![Resend verification email link](/assets/images/help/settings/email-verify-button.png)
 4. {% data variables.product.prodname_dotcom %} will send you an email with a link in it. After you click that link, you'll be taken to your {% data variables.product.prodname_dotcom %} dashboard and see a confirmation banner.
